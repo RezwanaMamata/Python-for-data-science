@@ -1,27 +1,43 @@
-# Python for Data Science, AI & Development
+# Python for Data Science, AI & Development - Lab Exercises
 
-## About this Course
-"Python for Data Science, AI & Development" by IBM on Coursera offers foundational Python programming and data collection skills essential for careers in Data Science, Data Engineering, AI, or Application Development. Covering Python basics, data structures, programming fundamentals, and practical data manipulation with Pandas and Numpy, the course prepares learners for real-world scenarios.
+Welcome to the lab exercises repository for the "Python for Data Science, AI & Development" course offered by IBM Skills Network on Coursera.
 
-### Learning Objectives
-- Python Basics including Types, Expressions, and Variables.
-- Data Structures in Python including Lists, Tuples, Dictionaries, Sets.
-- Python programming using Branching, Loops, Functions, Objects & Classes.
-- Working with data in Python using Pandas and Numpy libraries.
+## About this Repository
 
-## Prerequisites
-Basic understanding of programming concepts is recommended.
+This repository contains lab exercises completed as part of the course curriculum. All lab exercises are located within the "labs" folder.
 
-## Installation Instructions
-1. Install Python 3.x from [python.org](https://www.python.org/downloads/)
-2. Install Jupyter Notebook using `pip install notebook`
-3. Install Pandas and Numpy using `pip install pandas numpy`
+## Course Overview
 
-## Course Syllabus
-1. Python Basics
-2. Python Data Structures
-3. Python Programming Fundamentals
-4. Working with Data in Python
-5. APIs, and Data Collection
+The "Python for Data Science, AI & Development" course provides foundational Python programming and data collection skills essential for careers in Data Science, Data Engineering, AI, or Application Development.
 
-Thank You! Happy Learning....
+## Learning Outcomes
+
+By completing these lab exercises, learners will:
+- Gain proficiency in Python programming concepts such as types, expressions, variables, and data structures like lists, tuples, dictionaries, and sets.
+- Develop skills in Python programming techniques including branching, loops, functions, objects, and classes.
+- Learn to work with data in Python using Pandas and Numpy libraries for data manipulation and analysis.
+- Apply acquired skills to real-world scenarios through practical exercises and projects.
+
+## How to Use
+
+1. **Accessing Lab Exercises**: All lab exercises are stored as Jupyter Notebook files (`.ipynb`) within the "labs" folder.
+
+2. **Running the Lab Exercises**:
+    - Clone or download this repository to your local machine.
+    - Navigate to the "labs" folder.
+    - Open the desired lab exercise file (`.ipynb`) using Jupyter Notebook or any compatible notebook viewer.
+    - Follow the instructions and execute the code cells to run the lab exercise.
+
+3. **Prerequisites**:
+    - Ensure Python is installed on your machine. You can download it from [python.org](https://www.python.org/downloads/).
+    - Install Jupyter Notebook to run the `.ipynb` files. You can install it using `pip install notebook`.
+    - Additionally, make sure to have any required libraries mentioned in the lab exercises installed. You can install them using `pip install <library_name>`.
+
+## Note
+
+As a learner of this course, I am solely adding lab exercises to this repository. The exercises are completed based on the instructions provided in the course materials.
+
+---
+
+Thank you for visiting this repository! Happy learning!
+
