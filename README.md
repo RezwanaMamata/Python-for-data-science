@@ -32,6 +32,12 @@ By completing these lab exercises, learners will:
     - Ensure Python is installed on your machine. You can download it from [python.org](https://www.python.org/downloads/).
     - Install Jupyter Notebook to run the `.ipynb` files. You can install it using `pip install notebook`.
     - Additionally, make sure to have any required libraries mentioned in the lab exercises installed. You can install them using `pip install <library_name>`.
+  
+## Reference
+
+**Course Name:** Python for Data Science, AI & Development  
+**Instructor:** [Joseph Santarcangelo]  
+**Course Link:** [[Course Link on Coursera](https://www.coursera.org/programs/jda20232t1-z1hse/learn/python-for-applied-data-science-ai?specialization=ibm-data-analyst)]
 
 ## Note
 
