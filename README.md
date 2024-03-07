@@ -33,7 +33,7 @@ By completing these lab exercises, learners will:
     - Install Jupyter Notebook to run the `.ipynb` files. You can install it using `pip install notebook`.
     - Additionally, make sure to have any required libraries mentioned in the lab exercises installed. You can install them using `pip install <library_name>`.
   
-## Coursera Course Reference
+## Reference
 
 **Course Name:** Python for Data Science, AI & Development  
 **Instructor:** [Joseph Santarcangelo]  
